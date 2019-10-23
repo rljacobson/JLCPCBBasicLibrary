@@ -5,7 +5,7 @@ The [JLCPCB](https://jlcpcb.com/) Basic Library of SMT parts for their [SMT Asse
 ## JLCPCB Sources
 
 * Undocumented [link to xls file of all JLCPCB components with library type information](https://jlcpcb.com/video/jlcsmt_parts_library.xls).
-* The [Chinese langauge version of the JLCPCB website](https://www.sz-jlc.com/portal/smtComponentList.html) is more feature complete than the English language version. You can sort by library type (Basic or Extended).
+* The [Chinese language version of the JLCPCB website](https://www.sz-jlc.com/portal/smtComponentList.html) is more feature complete than the English language version. You can sort by library type (Basic or Extended).
 
 ## Third Party
 
