@@ -2,7 +2,7 @@
 
 [JLCPCB](https://jlcpcb.com/) Basic Library of SMT parts for their [SMT Assembly service](https://jlcpcb.com/smt-assembly) - Hard to find English language version.
 
-# [Click here for the full library.](BasicLibrary.md)
+# [Click here for the full "Basic" library.](BasicLibrary.md)
 
 Data sourced on October 22, 2019 from the [Chinese langauge version of the JLCPCB website](https://www.sz-jlc.com/portal/smtComponentList.html).
 
