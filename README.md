@@ -9,6 +9,7 @@ The [JLCPCB](https://jlcpcb.com/) Basic Library of SMT parts for their [SMT Asse
 
 ## Third Party
 
+* An [interactive parametric search tool for the patrs available for the SMT assembly service](https://yaqwsx.github.io/jlcparts/) - running in a browser, updated daily
 * A [complete list of the parts available for the SMT assembly service in CSV format here](https://github.com/NiklasFauth/jlcsmt-kicad-converter) with a Python script to match your BOM to JLCPCB parts. (Not just the Basic parts.)
 * The JLCPCB / LCSC [parts symbol and footprint library](https://gitee.com/JLC_SMT/JLCSMT_LIB.git).
 * The ["Basic" library in human-readable form](BasicLibrary.md) (this repo)
